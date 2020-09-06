@@ -1,0 +1,43 @@
+{
+  "name": "bytebook",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.4",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/lab": "^4.0.0-alpha.50",
+    "aws-sdk": "^2.734.0",
+    "body-parser": "^1.19.0",
+    "classnames": "^2.2.6",
+    "express": "^4.17.1",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "mysql": "^2.18.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-native": "^0.62.2",
+    "react-parallax": "^2.2.4",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "2.1.8",
+    "react-test-renderer": "^16.13.1"
+  },
+  "proxy": "http://localhost:8080",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3"
+  }
+}
